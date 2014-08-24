@@ -1,0 +1,15 @@
+imap <C-a>      <pass>
+imap <C-b>      <pass>
+imap <C-c>      <pass>
+imap <C-i>      <pass>
+imap <C-u>      <pass>
+imap <C-v>      <pass>
+imap <C-x>      <pass>
+imap <C-y>      <pass>
+imap <C-z>      <pass>
+imap <C-n>      <ESC><C-n> 
+imap <C-p>      <ESC><C-p> 
+
+map <C-c>      <pass>
+map <C-v>      <pass>
+map <C-x>      <pass>
